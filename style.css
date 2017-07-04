@@ -1,0 +1,68 @@
+#middleblock {
+    height: 900px;
+    width: 900px;
+}
+
+#right {
+    background-color:whitesmoke;
+    height: 800px;
+    width: 600px;
+    float:left;
+}
+
+#left{
+    background-color:lightgrey;
+    height: 800px;
+    width: 300px;
+    float: right;
+}
+
+#top {
+    background-color: red;
+    height: 50px;
+    width: 900px;
+}
+
+.news {
+    font-family: Arial;
+    color:white;
+    display: block;
+    text-align: center;
+    font-size: 290%;
+ }
+
+#righttopimg {
+    float: right;
+    position: relative;
+    margin-bottom: -4px;
+
+}
+#rightmiddleimg {
+    float:right;
+        margin-bottom: -4px;
+
+}
+#rightbottomimg{
+    float: inherit;
+        margin-bottom: -4px;
+
+    
+}
+#lefttopimg {
+  float: left;
+        margin-bottom: -4px;
+
+
+}
+#leftmiddleimg {
+ float: left;
+        margin-bottom: -4px;
+
+
+}
+#leftbottomimg{
+float: left;
+        margin-bottom: -4px;
+
+
+}
